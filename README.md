@@ -17,3 +17,9 @@ The application features a fully responsive UI with a custom **Dark / Off-Black 
 * [SharePoint Database Setup](SHAREPOINT.md) - Entitiy structure, field definitions and schema configuratuion.
 * [Power Apps Implementation](POWERAPPS.md) – Screen-by-screen breakdown, responsive styling, and Power Fx logic.
 
+## Demo & Live Demonstration
+
+
+https://github.com/user-attachments/assets/07d4b41f-71b1-4b04-9819-f8228024eff3
+
+
